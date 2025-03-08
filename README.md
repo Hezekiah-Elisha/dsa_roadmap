@@ -166,4 +166,20 @@
 - [ ] Edit Distance problem (DP).
 - [ ] Maximum sum subarray (Kadane’s Algorithm).
 
----
+# Resources
+https://cses.fi/problemset/list/
+
+https://github.com/golclinics/golclinics-dsa
+
+https://www.codewars.com/
+
+https://neetcode.io/
+
+https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4 => CS50 2024
+
+https://www.youtube.com/watch?v=8hly31xKli0&t=15781s&pp=ygUeZGF0YSBzdHJ1Y3R1cmVzIGFuZCBhbGdvcml0aG1z
+
+https://www.youtube.com/watch?v=lvO88XxNAzs&t=3298s&pp=ygUKZHNhIHRvcGljcw%3D%3D
+
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y
+
